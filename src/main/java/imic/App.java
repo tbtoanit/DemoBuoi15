@@ -32,7 +32,7 @@ public class App
         } finally {
             System.out.println("Chay du co chuyen gi xay ra!!!");
         }
-        System.out.println("Successfully!");
+        //System.out.println("Successfully!");
 
     }
 }
